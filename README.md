@@ -575,7 +575,7 @@ This project successfully demonstrates:
 - ✅ **Unified platform** for both salary prediction and fake job detection
 - ✅ **Production-ready models** with excellent performance
 
----
+
 
 ## 📝 References
 
